@@ -1,0 +1,10 @@
+{
+    "name": "mahdi/phpmvc",
+    "description": "mhsoleimani/phpmvc",
+    "autoload": {
+        "psr-4": {
+            "Mahdi\\Phpmvc\\": "App\\"
+        }
+    },
+    "require": {}
+}
